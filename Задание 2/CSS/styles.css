@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: beige;
+}
+
+.chapter {
+  text-align: center;
+  border: solid 2px;
+}
+
+.chapter_main {
+  color: #794e7b;
+  background-color: antiquewhite;
+}
+
+.chapter1 {
+  color: #552671;
+  background-color: burlywood;
+}
+
+.chapter2 {
+  background-color: bisque;
+}
+
+.chapter3 {
+  background-color: blanchedalmond;
+}
+
+.chapter4 {
+  background-color: burlywood;
+}
+
+.chapter5 {
+  background-color: cadetblue;
+}
